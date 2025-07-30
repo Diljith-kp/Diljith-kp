@@ -1,66 +1,87 @@
-<h1 align="center">Hi there 👋 I'm Diljith KP</h1>
+<h1 align="center">Hey there 👋 I'm <span style="color:#36BCF7;">Diljith KP</span></h1>
 
-<h3 align="center">Software Developer | AI & Web Enthusiast | Student at Bangalore North University</h3>
+<h3 align="center">🚀 Software Developer | 🧠 AI & Web Enthusiast | 🎓 BCA @ Bangalore North University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A7%96;Creative+Tech+Thinker+%F0%9F%92%A1;Lifelong+Learner+%F0%9F%93%9A;Building+Digital+Solutions+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&size=24&duration=3000&pause=1000&lines=🚀+Software+Developer;🤖+AI+%26+ML+Explorer;🎨+Creative+Tech+Thinker;📚+Lifelong+Learner;🌐+Building+Digital+Solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753903137/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f7.gif" alt="dev gif" width="600"/>
+  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753903137/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966_txtuhk.gif" alt="dev gif" width="600"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **BCA** at **Bangalore North University** *(Expected 2026)*
-- 📘 Certified in **AI with Python – IBM**
-- 🚀 Passionate about **building scalable, intelligent applications**
-- 🧠 Exploring **AI/ML**, creative front-end engineering, and real-world problem solving
-- 🤝 Love collaborating on meaningful tech projects and open-source
+- 🎓 BCA Student @ Bangalore North University *(Expected 2026)*
+- 📜 Certified in **AI with Python** from **IBM**
+- 🛠️ Passionate about scalable, intelligent software systems
+- 🌱 Exploring **Machine Learning**, **Front-end Engineering**, and **Open Source**
+- 🤝 Always open to collaborate and learn from real-world challenges
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git&theme=light" />
+</p>
+
+<p align="center">
+  <em>✨ Want to see more? Scroll below for GitHub insights & other cool stuff ↓</em>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-diljith.in-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://diljith.in)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diljithkp)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diljith-kp)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diljith_kp_)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diljith-kp&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🏅 Achievements
+### 🌟 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diljith-kp&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://diljith.in"><img src="https://img.shields.io/badge/Portfolio-diljith.in-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diljithkp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/diljith-kp"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/diljith_kp_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 Achievements
 
 - 🤖 **Machine Learning Intern @ CodSoft**
 - 💻 **Web Developer Intern @ Oasis Infobyte**
-- 🧠 **AI with Python – IBM**
-- 📚 Experience in **AI, Data Structures, Full Stack Development**
+- 📘 IBM Certified – **AI with Python**
+- 🌐 Developed **AI-based & Full Stack Projects** solving real-world problems
 
 ---
 
-### ⚡ Fun Fact
+### 💡 Fun Facts
 
-- Clean code and UI design feel like digital art 🎨  
-- Debugging is my version of solving puzzles 🧩
+- 🎨 UI/UX is my digital canvas  
+- 🧩 Debugging is my favorite kind of puzzle  
+- 🧭 I believe curiosity is a superpower
 
 ---
 
 <p align="center">
-  <em>⭐ Star or fork if something resonates — let’s innovate together 🚀</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F7C6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+%F0%9F%91%8D" alt="thanks" />
+</p>
+
+<p align="center">
+  <em>⭐ Star or fork something you like — let's build something awesome together 🚀</em>
 </p>
