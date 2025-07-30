@@ -40,7 +40,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-diljith.in-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://diljith.in)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diljithkp)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diljithkp)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diljith-kp)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diljith_kp_)  
 
 ---
