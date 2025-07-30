@@ -1,14 +1,12 @@
 <h1 align="center">Hey there 👋 I'm <span style="color:#36BCF7;">Diljith KP</span></h1>
 
-<h3 align="center">🚀 Software Developer | 🧠 AI & Web Enthusiast | 🎓 BCA @ Bangalore North University</h3>
+<h3 align="center">🚀 Software Developer | 🧠 AI & ML Enthusiast | 🌐 Full Stack & Web Dev | ⚙️ Prompt Engineer </h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&size=24&duration=3000&pause=1000&lines=🚀+Software+Developer;🤖+AI+%26+ML+Explorer;🎨+Creative+Tech+Thinker;📚+Lifelong+Learner;🌐+Building+Digital+Solutions" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753903137/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966_txtuhk.gif" alt="dev gif" width="600"/>
-</p>
 
 ---
 
@@ -77,6 +75,9 @@
 - 🧭 I believe curiosity is a superpower
 
 ---
+<p align="center">
+  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753903137/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966_txtuhk.gif" alt="dev gif" width="600"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F7C6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+%F0%9F%91%8D" alt="thanks" />
