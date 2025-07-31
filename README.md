@@ -23,7 +23,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,vscode&theme=light" />
 </p>
 
 <p align="center">
@@ -52,8 +52,11 @@
 
 <p align="center">
   <a href="https://diljith.in"><img src="https://img.shields.io/badge/Portfolio-diljith.in-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diljithkp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diljith-kp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/diljith-kp"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:diljithkuttoor@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://instagram.com/diljith_kp_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
